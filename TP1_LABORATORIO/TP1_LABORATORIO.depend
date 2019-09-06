@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1567746468 source:c:\users\nicolas\desktop\utn\c\tp1_laboratorio\aritmetica.c
+	"aritmetica.h"
+
+1567746307 c:\users\nicolas\desktop\utn\c\tp1_laboratorio\aritmetica.h
+	<stdio.h>
+
+1567745666 source:c:\users\nicolas\desktop\utn\c\tp1_laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"aritmetica.h"
+
